@@ -11,5 +11,5 @@ published: true
 post_date: 2019-02-03 20:07:06
 ---
 <!-- wp:paragraph -->
-<p>Jeder ist herzlichst Willkommen bei uns im Training mit zu machen. Egal ob Anfänger/in, der/die gerade erst beginnt Badminton zu spielen oder ob erfahrener Spieler. Bei uns im Training findet jeder einen Trainingspartner mit dem er oder sie Übungen absolvieren kann oder einfach nur spielen kann. Bei Interesse können Sie sich einfach melden und das erste Training vereinbaren. Die Kontaktdaten können Sie unter Kontakt (Verlinken!!!) entnehmen. Bei Bedarf kann auch ein Schläger vom Verein ausgeliehen werden.</p>
+<p>Jeder ist herzlichst Willkommen bei uns im Training mit zu machen. Egal ob Anfänger/in, der/die gerade erst beginnt Badminton zu spielen oder ob erfahrener Spieler. Bei uns im Training findet jeder einen Trainingspartner mit dem er oder sie Übungen absolvieren kann oder einfach nur spielen kann. Bei Interesse können Sie sich einfach melden und das erste Training vereinbaren. Die Kontaktdaten können Sie unter Kontakt entnehmen. Bei Bedarf kann auch ein Schläger vom Verein ausgeliehen werden.</p>
 <!-- /wp:paragraph -->
