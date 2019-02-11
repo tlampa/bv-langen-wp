@@ -18,5 +18,5 @@ post_date: 2019-02-07 20:47:03
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Adolf-Reichwein-Schule<br>Zimmerstraße 60, 63225 Lange</p>
+<p>Adolf-Reichwein-Schule<br>Zimmerstraße 60, 63225 Langen</p>
 <!-- /wp:paragraph -->
