@@ -5,7 +5,7 @@ author: tlampa
 post_excerpt: ""
 layout: page
 permalink: >
-  http://localhost:8012/bv-langen/datenschutzerklaerung-2/
+  http://localhost:8012/bv-langen/datenschutzerklaerung/
 published: true
 post_date: 2019-02-11 20:09:40
 ---
