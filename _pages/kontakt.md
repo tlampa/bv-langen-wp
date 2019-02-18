@@ -21,5 +21,5 @@ post_date: 2019-02-07 20:50:00
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Handy: 0174-3359181<br>E-Mail: chdutschei@web.de<br></p>
+<p>E-Mail: chdutschei@web.de<br></p>
 <!-- /wp:paragraph -->
