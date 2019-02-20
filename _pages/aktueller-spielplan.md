@@ -10,7 +10,7 @@ published: true
 post_date: 2019-02-20 21:00:08
 ---
 <!-- wp:table -->
-<table class="wp-block-table"><tbody><tr><td>[xyz-ips snippet="Spielplan20182019"]</td></tr></tbody></table>
+<table class="wp-block-table"><tbody><tr><td>[xyz-ips snippet="Spielplan20172018"]</td></tr></tbody></table>
 <!-- /wp:table -->
 
 <!-- wp:paragraph -->
