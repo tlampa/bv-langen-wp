@@ -22,8 +22,5 @@ post_date: 2019-02-07 20:47:03
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>
-[xyz-ips snippet="NoTrainingMessage"]
-
-</p>
+<p> [xyz-ips snippet="NoTrainingMessage"] </p>
 <!-- /wp:paragraph -->
