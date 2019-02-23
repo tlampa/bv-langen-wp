@@ -24,7 +24,3 @@ post_date: 2019-02-07 20:47:03
 <!-- wp:table -->
 <table class="wp-block-table"><tbody><tr><td>[xyz-ips snippet="NoTrainingMessage"]</td></tr></tbody></table>
 <!-- /wp:table -->
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->
