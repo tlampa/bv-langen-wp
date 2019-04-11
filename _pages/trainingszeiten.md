@@ -24,3 +24,11 @@ post_date: 2019-02-07 20:47:03
 <!-- wp:paragraph -->
 <p>Adolf-Reichwein-Schule<br>Zimmerstraße 60, 63225 Langen</p>
 <!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Während der Osterferien haben wir abweichende Trainingszeiten!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>Dienstag 16.04.2019 19:00 - 22:00 Uhr</li><li>Donnerstag 18.04.2019 19:00 - 22:00 Uhr</li><li>Dienstag 23.04.2019 19:00 - 22:00 Uhr</li></ul>
+<!-- /wp:list -->
