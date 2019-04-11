@@ -1,8 +1,8 @@
 ---
 ID: 2
 post_title: >
-  Herzlich Willkomen beim 1. BV-Langen dem
-  Badminton-Verein in Langen
+  Herzlich Willkommen beim 1. BV-Langen
+  dem Badminton-Verein in Langen
 author: tlampa
 post_excerpt: ""
 layout: page
