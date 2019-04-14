@@ -30,5 +30,5 @@ post_date: 2019-02-07 20:47:03
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
-<ul><li style="color:red font:bold">Dienstag 16.04.2019 19:00 - 22:00 Uhr</li><li>Donnerstag 18.04.2019 19:00 - 22:00 Uhr</li><li>Dienstag 23.04.2019 19:00 - 22:00 Uhr</li><li>Donnerstag 25.04.2019 geschlossen!</li></ul>
+<ul><li style="color:red; font:bold">Dienstag 16.04.2019 19:00 - 22:00 Uhr</li><li>Donnerstag 18.04.2019 19:00 - 22:00 Uhr</li><li>Dienstag 23.04.2019 19:00 - 22:00 Uhr</li><li>Donnerstag 25.04.2019 geschlossen!</li></ul>
 <!-- /wp:list -->
