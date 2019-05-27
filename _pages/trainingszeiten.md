@@ -24,3 +24,7 @@ post_date: 2019-02-07 20:47:03
 <!-- wp:paragraph -->
 <p>Adolf-Reichwein-Schule<br>Zimmerstraße 60, 63225 Langen</p>
 <!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<p><font color="red"><b>Am Donnerstag den 30.05.2019 findet kein Training statt!</font></b></p>
+<!-- /wp:html -->
