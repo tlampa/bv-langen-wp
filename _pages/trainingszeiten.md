@@ -26,5 +26,5 @@ post_date: 2019-02-07 20:47:03
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
-<p><font color="red"><b>Ab Donnerstag 15.08.2019 beginnt wieder das Training!</b></font></p>
+<p><font color="red"><b>Ab Donnerstag den 15. August beginnt wieder das Training!</b></font></p>
 <!-- /wp:html -->
